@@ -1,0 +1,8 @@
+# Ignore MySQL data directory
+mysql/data/
+
+# Ignore other potential sensitive or unnecessary files
+*.log
+*.pid
+*.sock
+*.pid
